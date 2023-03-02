@@ -1,6 +1,6 @@
 # IJCAI2023
 
-Implementation for the experiments in " " paper, AI and Social Good, IJCAI 2023.
+Implementation for the experiments in "A Heterogeneous Attention Network Model for Longitudinal Analysis of Socioeconomic and Racial Inequalities in Urban Regions: Evidence from Washington DC and Chicago" paper, AI and Social Good, IJCAI 2023.
 
 
 # Repository Structure and Code Breakdown
